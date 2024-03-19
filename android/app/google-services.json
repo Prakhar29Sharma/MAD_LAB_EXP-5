@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335696456377",
+    "project_id": "basic-auth-dd923",
+    "storage_bucket": "basic-auth-dd923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335696456377:android:7f0934da2dcc6a5b944968",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH0OgFY372v5MIPJAwDmDWWU5C9GkNdp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
