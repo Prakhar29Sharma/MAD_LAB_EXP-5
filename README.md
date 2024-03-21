@@ -1,6 +1,6 @@
-# firebase_authentication
+# user_authentication
 
-MAD Lab Exp 5
+MAD lab exp 5
 
 ## Getting Started
 
